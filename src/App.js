@@ -1,7 +1,7 @@
 import {useEffect, useState} from 'react';
 import React from 'react';
 import './App.css';
-import {Route} from 'react';
+//import {Route} from 'react';
 import PageNotFound from './Components/PageNotFound';
 //this is the two variable in data .js file
 import { apiUrl,filterData } from './data';
@@ -12,6 +12,8 @@ import Cards from  './Components/Cards'
 import {toast} from "react-toastify";
 //import spiner
 import Spiner from'./Components/Spiner';
+import { Route } from 'react-router-dom';
+
 
 function App() {
 
