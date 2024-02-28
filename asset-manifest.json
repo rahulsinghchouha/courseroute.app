@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/courseroute.app/static/css/main.79b3045c.css",
+    "main.js": "/courseroute.app/static/js/main.e427ed59.js",
+    "static/js/787.3836d36d.chunk.js": "/courseroute.app/static/js/787.3836d36d.chunk.js",
+    "index.html": "/courseroute.app/index.html",
+    "main.79b3045c.css.map": "/courseroute.app/static/css/main.79b3045c.css.map",
+    "main.e427ed59.js.map": "/courseroute.app/static/js/main.e427ed59.js.map",
+    "787.3836d36d.chunk.js.map": "/courseroute.app/static/js/787.3836d36d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79b3045c.css",
+    "static/js/main.e427ed59.js"
+  ]
+}
